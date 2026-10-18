@@ -32,3 +32,7 @@ Open packs, put your favorites on a shelf of three, and spend golden coins on mo
 3. If your ROMs or Cocoon media live elsewhere, set the folders in **Settings** and rescan.
 
 Optional: pick a pack theme in Settings to use Cocoon's theme art on the packs.
+
+## Disclaimer
+
+This is a parody project. I do not condone gambling, gacha, free-to-play, freemium, or any other FOMO based game mechanic. This project comes as is with no warranty. If you have a bug or want to request a feature, you may open a Github issue but I do not make any promises of updates. It works on my machine.
